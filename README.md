@@ -18,17 +18,17 @@ My name is Rushda, and I am a Front-end Developer that enjoys working with JavaS
   <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="css3" data-canonical-src="https://logotyp.us/file/css.svg" style="max-width: 100%;"></a>
       <br><strong>CSS3</strong>
-    </td>
-
-  <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="48" height="48" alt="Javascript" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" style="max-width: 100%;"></a>
-      <br><strong>JavaScript</strong>
-    </td>
+  </td>
 
   <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="max-width: 100%;"></a>
       <br><strong>Sass</strong>
     </td>  
+
+  <td align="center" height="108" width="108">
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="48" height="48" alt="Javascript" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" style="max-width: 100%;"></a>
+      <br><strong>JavaScript</strong>
+    </td>
     
   <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a>
