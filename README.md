@@ -1,19 +1,6 @@
 # Hi there 👋
 
-<!--
-**RushdaAnsari/RushdaAnsari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 My name is Rushda, and I am a Front-end Developer that enjoys working with JavaScript technologies. I am currently learning React and other front-end frameworks and libraries. Exploring new technologies, which I can use to create incredible websites, is a passion of mine.
 
@@ -24,17 +11,17 @@ My name is Rushda, and I am a Front-end Developer that enjoys working with JavaS
   <tbody><tr>
     
   <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" width="48" height="48" alt="HTMl5" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" width="48" height="48" alt="HTMl5" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" style="max-width: 100%;"></a>
       <br><strong>HTML5</strong>    
 </td>
     
   <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" width="48" height="48" alt="css3" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/css3.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="css3" data-canonical-src="https://logotyp.us/file/css.svg" style="max-width: 100%;"></a>
       <br><strong>CSS3</strong>
     </td>
 
   <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" width="48" height="48" alt="Javascript" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="48" height="48" alt="Javascript" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" style="max-width: 100%;"></a>
       <br><strong>JavaScript</strong>
     </td>
 
@@ -53,11 +40,11 @@ My name is Rushda, and I am a Front-end Developer that enjoys working with JavaS
     </td> 
   
   <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fontawesome.svg" width="48" height="48" alt="npmt" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fontawesome.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" width="48" height="48" alt="npmt" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fontawesome.svg" style="max-width: 100%;"></a>
       <br><strong>Font Awesome</strong>  
   </td>  
   <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" width="48" height="48" alt="npmt" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="48" height="48" alt="npmt" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" style="max-width: 100%;"></a>
       <br><strong>NPM</strong>
     </td>
   </tr> 
