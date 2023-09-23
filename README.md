@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Rushda, and I am a Front-end Developer that enjoys working with JavaScript technologies. I am currently focused on learning everything I can about web development. Exploring new technologies, which I can use to create incredible websites, is passion a of mine.
+My name is Rushda, and I am a Front-end Developer that enjoys working with JavaScript technologies. I am currently learning React and other front-end frameworks and libraries. Exploring new technologies, which I can use to create incredible websites, is a passion of mine.
 
 <a href="mailto:iamrushdaa@gmail.com"><img src="https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" height="25" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>
 
