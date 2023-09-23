@@ -51,10 +51,7 @@ My name is Rushda, and I am a Front-end Developer that enjoys working with JavaS
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/964a169bbc7417bcf2b1ee0ddd2122d9592a50dee693f9421428bdd11d32c18e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f626f6f7473747261702f626f6f7473747261702d706c61696e2e737667"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" style="max-width: 100%;"></a>
       <br><strong>Bootstrap</strong>
     </td> 
-   <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8fae16ce278f9fbb3f4c48dd32f32fa8507fed6c0004231fb2539d66bc933296/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6174657269616c75692f6d6174657269616c75692d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" style="max-width: 100%;"></a>
-      <br><strong>Material UI</strong>
-    </td> 
+  
   <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fontawesome.svg" width="48" height="48" alt="npmt" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fontawesome.svg" style="max-width: 100%;"></a>
       <br><strong>Font Awesome</strong>  
