@@ -16,7 +16,7 @@ My name is Rushda, and I am a Front-end Developer that enjoys working with JavaS
 </td>
     
   <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="48" height="48" alt="css3" data-canonical-src="https://logotyp.us/file/css.svg" style="max-width: 100%;"></a>
+      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://www.svgrepo.com/show/353623/css-3.svg" width="48" height="48" alt="css3" data-canonical-src="https://www.svgrepo.com/show/353623/css-3.svg" style="max-width: 100%;"></a>
       <br><strong>CSS3</strong>
   </td>
 
