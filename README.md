@@ -45,10 +45,6 @@ My name is Rushda, and I am a Front-end Developer that enjoys working with JavaS
   </td>   
   
   <td align="center" height="108" width="108">
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" width="48" height="48" alt="npmt" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/fontawesome.svg" style="max-width: 100%;"></a>
-      <br><strong>Font Awesome</strong>  
-  </td>  
-  <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="48" height="48" alt="npmt" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" style="max-width: 100%;"></a>
       <br><strong>NPM</strong>
     </td>
