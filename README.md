@@ -34,8 +34,6 @@ My name is Rushda, and I am a Front-end Developer that enjoys working with JavaS
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/26901b819fb10ef4e2c652aa40e24775247664d84a7597bebb66898a24dddedd/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f736173732f736173732d6f726967696e616c2e737667"><img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="48" height="48" alt="tailwindcss-logo" data-canonical-src="https://www.svgrepo.com/show/374118/tailwind.svg" style="max-width: 100%;"></a>
       <br><strong>Tailwind Css</strong>
   </td>    
-</tr>
-<tr>
   <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="48" height="48" alt="Javascript-logo" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" style="max-width: 100%;"></a>
       <br><strong>JavaScript</strong>
@@ -54,6 +52,8 @@ My name is Rushda, and I am a Front-end Developer that enjoys working with JavaS
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://www.svgrepo.com/show/354552/webpack.svg" width="48" height="48" alt="webpack-logo" data-canonical-src="https://www.svgrepo.com/show/354552/webpack.svg" style="max-width: 100%;"></a>
       <br><strong>Webpack</strong>
     </td>
+</tr>
+<tr>
     <td align="center" height="108" width="108">
       <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/9ebde7ca22ab3f3b4bf92d2743804ab9e581e413a16cdf3626c2092e69967d80/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d6f6e676f64622f6d6f6e676f64622d6f726967696e616c2e737667"><img src="https://www.svgrepo.com/show/445780/framer.svg" width="48" height="48" alt="framer-logo" data-canonical-src="https://www.svgrepo.com/show/445780/framer.svg" style="max-width: 100%;"></a>
       <br><strong>Framer-motion</strong>
